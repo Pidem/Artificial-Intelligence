@@ -15,6 +15,8 @@ ast (A-Star Search)
 
 Create an agent to intelligently play the 2048-puzzle game (gabrielecirulli.github.io/2048): Goal is to reach the 2048 tile. Implementation of an adversarial search algorithm (minimax algorithm) with several heuristics
 
+The actual minimax code is in PlayerAI_3.py
+
 Minimax algorithm and heuristics
 
 # Machine Learning 
